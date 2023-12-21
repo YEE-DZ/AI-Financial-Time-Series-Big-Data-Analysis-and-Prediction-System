@@ -1,0 +1,134 @@
+file_name,model_name,best_params,train_auc,test_auc,rmse,profits
+new_KR7005930003.csv,RandomForest,"{'class_weight': None, 'max_depth': None, 'n_estimators': 10}",0.99,0.99,0.01,64.4740703506
+new_KR7005930003.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",1.0,1.0,0.0,47.8628690249
+new_KR7005930003.csv,NaiveBayes,{},0.04,0.04,0.99,89.26282303185
+new_KR7005930003.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.98,0.97,0.03,0.0
+new_KR7005930003.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.42,0.42,0.59,27.808111926649996
+new_KR7005930003.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.98,0.98,0.02,0.0
+new_KR7005930003.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",1.0,1.0,0.0,67.5034536144
+new_KR7000250001.csv,RandomForest,"{'class_weight': None, 'max_depth': 20, 'n_estimators': 50}",0.93,0.92,0.08,47.907257055535
+new_KR7000250001.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.97,0.96,0.04,570.906067168306
+new_KR7000250001.csv,NaiveBayes,{},0.53,0.52,0.57,166.168729175036
+new_KR7000250001.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.92,0.9,0.1,0.0
+new_KR7000250001.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.31,0.31,0.78,205.38522203989902
+new_KR7000250001.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.92,0.91,0.1,56.57124213346
+new_KR7000250001.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.97,0.96,0.04,1631.500385160541
+new_KR7036570000.csv,RandomForest,"{'class_weight': None, 'max_depth': 10, 'n_estimators': 50}",0.99,0.99,0.01,0.0
+new_KR7036570000.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",1.0,1.0,0.0,-1.6225009599
+new_KR7036570000.csv,NaiveBayes,{},0.33,0.33,0.67,7.7005733146
+new_KR7036570000.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.99,0.99,0.01,0.0
+new_KR7036570000.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.59,0.59,0.41,110.54072078620001
+new_KR7036570000.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.99,0.99,0.01,0.0
+new_KR7036570000.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",1.0,1.0,0.0,-1.6225009599
+new_KR7051910008.csv,RandomForest,"{'class_weight': None, 'max_depth': 10, 'n_estimators': 50}",0.85,0.84,0.16,0.0
+new_KR7051910008.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.97,0.96,0.05,118.89843861810002
+new_KR7051910008.csv,NaiveBayes,{},0.69,0.69,0.35,31.60251726815
+new_KR7051910008.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.85,0.84,0.16,0.0
+new_KR7051910008.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.33,0.34,0.8,16.07223146325
+new_KR7051910008.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.85,0.85,0.19,30.8715244248
+new_KR7051910008.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.97,0.96,0.04,144.6145210065
+new_KR7066700006.csv,RandomForest,"{'class_weight': None, 'max_depth': None, 'n_estimators': 50}",1.0,1.0,0.0,59.830116858179004
+new_KR7066700006.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",1.0,1.0,0.0,183.014166492874
+new_KR7066700006.csv,NaiveBayes,{},0.22,0.22,0.78,-30.080972130472
+new_KR7066700006.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.99,0.99,0.01,0.0
+new_KR7066700006.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.61,0.63,0.37,17.889709090884
+new_KR7066700006.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.99,0.99,0.01,0.0
+new_KR7066700006.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",1.0,1.0,0.0,183.014166492874
+new_KR7066970005.csv,RandomForest,"{'class_weight': 'balanced', 'max_depth': 10, 'n_estimators': 100}",0.93,0.93,0.07,293.075113947
+new_KR7066970005.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.98,0.98,0.02,1064.2791939928
+new_KR7066970005.csv,NaiveBayes,{},0.03,0.04,1.01,65.831894393295
+new_KR7066970005.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.97,0.96,0.04,0.0
+new_KR7066970005.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.52,0.5,0.5,544.35562822717
+new_KR7066970005.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.97,0.96,0.04,634.637974624
+new_KR7066970005.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.98,0.98,0.02,1088.769970720595
+new_KR7068760008.csv,RandomForest,"{'class_weight': 'balanced', 'max_depth': None, 'n_estimators': 10}",0.98,0.97,0.03,-59.01661007947
+new_KR7068760008.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",1.0,1.0,0.0,-46.1202102985
+new_KR7068760008.csv,NaiveBayes,{},0.46,0.43,0.57,-61.852199968585
+new_KR7068760008.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.99,0.99,0.01,0.0
+new_KR7068760008.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.82,0.84,0.16,-16.84180159528
+new_KR7068760008.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.99,0.99,0.01,0.0
+new_KR7068760008.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",1.0,1.0,0.0,-68.94041437553
+new_KR7078600004.csv,RandomForest,"{'class_weight': 'balanced', 'max_depth': 10, 'n_estimators': 10}",0.84,0.83,0.18,-7.81512249848
+new_KR7078600004.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",1.0,1.0,0.0,-21.11933839753
+new_KR7078600004.csv,NaiveBayes,{},0.1,0.09,0.99,-28.654056814860002
+new_KR7078600004.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.94,0.94,0.06,0.0
+new_KR7078600004.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.35,0.35,0.69,115.93450655778
+new_KR7078600004.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.94,0.94,0.06,-3.9011094359999996
+new_KR7078600004.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",1.0,1.0,0.0,8.522135992035
+new_KR7096770003.csv,RandomForest,"{'class_weight': 'balanced', 'max_depth': 10, 'n_estimators': 10}",0.84,0.84,0.16,16.3340418806
+new_KR7096770003.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.99,1.0,0.0,9.60162416576
+new_KR7096770003.csv,NaiveBayes,{},0.31,0.3,0.72,-29.29863860904
+new_KR7096770003.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.94,0.97,0.03,0.0
+new_KR7096770003.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.31,0.31,0.69,-39.40142613168
+new_KR7096770003.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.94,0.97,0.03,-53.96105383912
+new_KR7096770003.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.99,1.0,0.0,9.60162416576
+new_KR7128940004.csv,RandomForest,"{'class_weight': None, 'max_depth': 10, 'n_estimators': 10}",0.95,0.95,0.05,-3.7896201321
+new_KR7128940004.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.98,0.98,0.02,-38.32721832835
+new_KR7128940004.csv,NaiveBayes,{},0.12,0.11,0.94,-3.9232510351500003
+new_KR7128940004.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.95,0.95,0.05,0.0
+new_KR7128940004.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.45,0.46,0.56,101.20424995965
+new_KR7128940004.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.95,0.95,0.05,0.0
+new_KR7128940004.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.98,0.98,0.02,-38.32721832835
+new_KR7185750007.csv,RandomForest,"{'class_weight': 'balanced', 'max_depth': None, 'n_estimators': 50}",0.78,0.77,0.28,32.783512544530005
+new_KR7185750007.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.94,0.94,0.06,-51.65466068084
+new_KR7185750007.csv,NaiveBayes,{},0.13,0.16,1.0,21.40259427206
+new_KR7185750007.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.07,0.08,1.22,0.0
+new_KR7185750007.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.48,0.48,0.61,27.881193776099998
+new_KR7185750007.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.74,0.72,0.34,15.75817887582
+new_KR7185750007.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.94,0.93,0.07,-44.14004538993
+new_KR7192080000.csv,RandomForest,"{'class_weight': None, 'max_depth': 10, 'n_estimators': 50}",0.95,0.94,0.06,-31.271953498955003
+new_KR7192080000.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.99,0.99,0.01,17.471531327119997
+new_KR7192080000.csv,NaiveBayes,{},0.06,0.08,0.99,-16.992582256425003
+new_KR7192080000.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.03,0.03,1.07,0.0
+new_KR7192080000.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.48,0.49,0.51,-1.8669485176399998
+new_KR7192080000.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.94,0.94,0.06,2.89023394225
+new_KR7192080000.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.99,0.99,0.01,16.279002259149998
+new_KR7207940008.csv,RandomForest,"{'class_weight': 'balanced', 'max_depth': 20, 'n_estimators': 10}",0.98,0.98,0.02,52.7486997
+new_KR7207940008.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",1.0,1.0,0.0,26.3855002
+new_KR7207940008.csv,NaiveBayes,{},0.12,0.13,0.92,6.7081078000000005
+new_KR7207940008.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.03,0.03,1.06,0.0
+new_KR7207940008.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.5,0.5,0.51,4.9962356
+new_KR7207940008.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.95,0.94,0.06,-5.3522848
+new_KR7207940008.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",1.0,1.0,0.0,26.3855002
+new_KR7225570001.csv,RandomForest,"{'class_weight': None, 'max_depth': 20, 'n_estimators': 100}",0.96,0.98,0.02,-48.836445705387
+new_KR7225570001.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.99,0.99,0.01,-32.308823835004006
+new_KR7225570001.csv,NaiveBayes,{},0.76,0.79,0.25,-36.72813142881
+new_KR7225570001.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.06,0.04,1.07,0.0
+new_KR7225570001.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.46,0.48,0.59,66.80189077816901
+new_KR7225570001.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.88,0.92,0.09,30.325890523985
+new_KR7225570001.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.99,0.99,0.01,-32.308823835004006
+new_KR7247540008.csv,RandomForest,"{'class_weight': 'balanced', 'max_depth': None, 'n_estimators': 100}",0.84,0.76,0.3,111.68857179125999
+new_KR7247540008.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.94,0.92,0.09,56.1591237753
+new_KR7247540008.csv,NaiveBayes,{},0.14,0.16,1.0,8.4975703482
+new_KR7247540008.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.08,0.07,1.16,0.0
+new_KR7247540008.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.48,0.53,0.51,9.2803129281
+new_KR7247540008.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.85,0.84,0.21,-12.8657668032
+new_KR7247540008.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.94,0.93,0.07,26.38448260794
+new_KR7251270005.csv,RandomForest,"{'class_weight': 'balanced', 'max_depth': 20, 'n_estimators': 50}",0.92,0.93,0.07,-21.79565926965
+new_KR7251270005.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.95,0.94,0.06,-0.70352941387
+new_KR7251270005.csv,NaiveBayes,{},0.52,0.5,0.6,-52.56443438059
+new_KR7251270005.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.07,0.07,1.16,0.0
+new_KR7251270005.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.44,0.44,0.62,-22.32857098205
+new_KR7251270005.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.76,0.79,0.28,-27.31258479552
+new_KR7251270005.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.94,0.94,0.06,-6.822129453740001
+new_KR7263750002.csv,RandomForest,"{'class_weight': None, 'max_depth': 10, 'n_estimators': 100}",0.88,0.88,0.12,-3.5912758000000005
+new_KR7263750002.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.97,0.97,0.03,-38.599219243825
+new_KR7263750002.csv,NaiveBayes,{},0.11,0.11,1.1,-45.982611373075
+new_KR7263750002.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.07,0.07,1.15,0.0
+new_KR7263750002.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.48,0.49,0.56,-46.300635838874996
+new_KR7263750002.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.87,0.86,0.18,-7.787648399999999
+new_KR7263750002.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.97,0.97,0.03,-36.541745501175
+new_KR7293490009.csv,RandomForest,"{'class_weight': None, 'max_depth': 20, 'n_estimators': 10}",0.95,0.94,0.06,-9.017969854815
+new_KR7293490009.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.98,0.98,0.02,6.653629295669999
+new_KR7293490009.csv,NaiveBayes,{},0.14,0.15,0.98,12.38252948093
+new_KR7293490009.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.07,0.07,1.16,0.0
+new_KR7293490009.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.56,0.56,0.45,-5.67448557902
+new_KR7293490009.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.87,0.86,0.14,-3.5040944399750003
+new_KR7293490009.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.98,0.98,0.02,11.37801061046
+new_KR7373220003.csv,RandomForest,"{'class_weight': 'balanced', 'max_depth': None, 'n_estimators': 10}",0.9,0.85,0.18,11.4192
+new_KR7373220003.csv,DecisionTree,"{'criterion': 'gini', 'max_depth': None}",0.98,0.98,0.02,13.104
+new_KR7373220003.csv,NaiveBayes,{},0.29,0.27,0.82,30.934800000000003
+new_KR7373220003.csv,LogisticRegression,"{'C': 0.001, 'max_iter': 1000, 'penalty': 'l1', 'solver': 'liblinear'}",0.06,0.06,1.13,0.0
+new_KR7373220003.csv,SVM,"{'C': 0.1, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'linear'}",0.59,0.58,0.45,9.6057
+new_KR7373220003.csv,KNN,"{'n_neighbors': 3, 'weights': 'uniform'}",0.88,0.92,0.08,-1.638
+new_KR7373220003.csv,GBT,"{'learning_rate': 0.05, 'max_depth': None, 'n_estimators': 10}",0.98,0.98,0.02,13.104
